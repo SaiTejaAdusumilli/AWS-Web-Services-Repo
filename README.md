@@ -20,3 +20,22 @@ To run the above architecture, clone this repo, npm install packages, create AWS
 
 
 After configuring API Gateway, create dynamodb table with fields id, input_text, input_path, deploy the lambda code in AWS configure AMI from existing ec2 or create new AMI, create a security group, set permissions using IAM policies and run the react code locally, the entire pipeline will be triggered automatically and returns a sucessful response.
+
+
+## ReactUI
+![image](https://github.com/SaiTejaAdusumilli/Fovus-Challenge/assets/46951942/5badc740-8749-42c2-b012-6969a530ecad)
+
+## API Gateway URL
+![image](https://github.com/SaiTejaAdusumilli/Fovus-Challenge/assets/46951942/9dc0d8ca-5104-4056-8032-bc1ea8fac056)
+
+## S3 Bucket
+![image](https://github.com/SaiTejaAdusumilli/Fovus-Challenge/assets/46951942/50732ec6-3d8e-4ac1-94c0-b0dbcd1f7789)
+
+## DynamoDB Data
+
+![image](https://github.com/SaiTejaAdusumilli/Fovus-Challenge/assets/46951942/b9550186-5cbe-4bb4-adc6-b692572ca014)
+
+
+
+
+
