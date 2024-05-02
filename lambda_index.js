@@ -104,5 +104,17 @@ export const handler = async (event) => {
     } catch (err) {
         console.error('Error downloading file:', err);
     }
+
+try {
+                const instanceId = data.Instances[0].InstanceId;
+
+        const params = {
+            InstanceIds: [instanceId]
+        };
+        const data = await ec2Client.terminateInstances(params).promise();
+        console.log('EC2 instance terminated:', data.TerminatingInstances[0].InstanceId);
+    } catch (err) {
+        console.error('Error:', err);
+    }
     
 };
