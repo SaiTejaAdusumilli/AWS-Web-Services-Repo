@@ -35,6 +35,16 @@ After configuring API Gateway, create dynamodb table with fields id, input_text,
 
 ![image](https://github.com/SaiTejaAdusumilli/Fovus-Challenge/assets/46951942/b9550186-5cbe-4bb4-adc6-b692572ca014)
 
+## Lambda Code
+![image](https://github.com/SaiTejaAdusumilli/Fovus-Challenge/assets/46951942/cfc4d4fa-2a52-4f2e-8bfd-6440a7170965)
+
+## EC2 instances automatic
+![image](https://github.com/SaiTejaAdusumilli/Fovus-Challenge/assets/46951942/bb2ec76b-d1aa-4e85-b4b7-5c1652cc0694)
+
+
+
+
+
 
 
 
