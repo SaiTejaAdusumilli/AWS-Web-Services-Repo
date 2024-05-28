@@ -1,4 +1,4 @@
-In this project we explore different kinds of AWS services like EC2, DynamoDB, Lambda, API Gateway, S3 etc.  
+In this project we explore different kinds of AWS services like EC2, DynamoDB, Lambda, API Gateway, S3 etc. and automate the execution flow using JS/python scripts
 
 This project takes input text and file as input stores it in aws s3 using aws sdk in javascript file 
 
